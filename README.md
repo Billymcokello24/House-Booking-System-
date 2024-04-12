@@ -1,2 +1,2 @@
-# RealEstate
-Real Estate application using Laravel and ICP 
+# House Booking system
+House booking system
